@@ -13,7 +13,7 @@
     "express-session-mongo": "0.0.1",
     "socket.io": "~0.9.14"
   },
-  "description": "ERROR: No README.md file found!",
+  "description": "Example of using express session in socket.io",
   "main": "app.js",
   "devDependencies": {},
   "repository": {
