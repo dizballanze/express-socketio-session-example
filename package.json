@@ -1,0 +1,31 @@
+{
+  "name": "express-socketio-session-example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*",
+    "cookie": "0.0.6",
+    "mongodb": "~1.2.14",
+    "express-session-mongo": "0.0.1",
+    "socket.io": "~0.9.14"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dizballanze/express-socketio-session-example.git"
+  },
+  "keywords": [
+    "express",
+    "socket.io",
+    "mongodb",
+    "session"
+  ],
+  "author": "Yuri Shikanov <dizballanze@gmail.com>",
+  "license": "BSD"
+}

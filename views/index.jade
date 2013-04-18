@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  h1 Mongo sessions integration
+  h2 Express + Socket.io
+
+  p(style="color: red;") Current name: #{session.name}
+
+  form(method='post')
+    label Enter Your name:
+      input(name='name', type='text', required)
+
+    input(type='submit', value='Update')
+
+  h2 Chat
+  textarea(id="log", rows="5", cols="45")
+  br
+  label Message:
+  input(id='message', type='text')
+  input(id='send', type='button', value='Send')
