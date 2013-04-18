@@ -27,5 +27,7 @@
     "session"
   ],
   "author": "Yuri Shikanov <dizballanze@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "6dbc4cc34ef58c3f1052971ffb2fab0d1ae723ca"
 }
