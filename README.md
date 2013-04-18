@@ -5,14 +5,17 @@ Installation
 ------------
 
 Clone repository:
-`git clone git://github.com/dizballanze/express-socketio-session-example.git`
+```bash
+git clone git://github.com/dizballanze/express-socketio-session-example.git
+```
 
 Install packages:
-
 ```bash
-	cd express-socketio-session-example
-	npm install
+cd express-socketio-session-example
+npm install
 ```
 
 Run:
-`npm start`
+```bash
+npm start
+```
